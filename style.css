@@ -1,0 +1,72 @@
+html,
+body {
+    background-color: white;
+    margin: 0;
+}
+
+h1 {
+    color: #dfc15e;
+}
+
+.no-gutter {
+    padding-right: 0;
+    padding-left: 0;
+}
+
+.navbar {
+    background-color: #CDE8FC;
+}
+
+.nav-link, .navbar-brand { 
+    color: black; 
+
+}
+
+.nav-link:hover {  
+    color: #BEBEBE; 
+}
+
+.Jumbotron {
+    background-image: url("src/background.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 480px;
+}
+
+.overlay {
+    position: absolute;
+    min-height: 100%;
+    min-width: 100%;
+    left: 0;
+    background-color: rgba(244, 244, 244, 0.4);
+}
+
+.logo {
+    width: 80%;
+    z-index: 500;
+}
+
+.des {
+    z-index: 500;
+}
+
+.pic img {
+    width: 200px;
+}
+
+.footer {
+    background-color: #CDE8FC;
+    width: 100%;
+}
+
+.center-vertical {
+    position: relative;
+    top: 50%;
+    transform: translateY(-50%);
+}
+
+.team img {
+    width: 60%;
+    margin: 0 auto;
+}

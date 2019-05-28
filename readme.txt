@@ -1,0 +1,2 @@
+This is a simple website based on Bootstrap, containing responsive design;
+It's a similar project to the coffee lab, the only difference is it's used bootstrap and can have different layouts under different screen size.
